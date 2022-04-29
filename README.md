@@ -11,4 +11,4 @@ repository for study purpose  for me and anyone want to learn about BloC pattern
 
 To clone repository: 
 
-- git clone https://github.com/BrunoRabbit/send_data
+- git clone https://github.com/BrunoRabbit/send_data_bloc_object
